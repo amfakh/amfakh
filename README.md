@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😄 I'm a fresh graduate with interest in data
-📖 I'm currently learning Machine Learning, Spark, and other things related to Data Analyst and Data Science 
-⚡ For now, this github only shows my previous big project on my college including my Thesis work
+😄 I'm a fresh graduate with interest in data.
+
+📖 I'm currently learning Machine Learning, Spark, and other things related to Data Analyst and Data Science.
+
+⚡ For now, this github only shows my previous big project on my college including my Thesis work.
