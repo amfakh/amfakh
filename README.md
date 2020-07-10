@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 📖 I'm currently learning Machine Learning, Spark, and other things related to Data Analyst and Data Science.
 
 ⚡ For now, this github only shows my previous big project on my college including my Thesis work.
+
+📊 I started to play visualization as well, you can see it in my [Tableau profile](https://public.tableau.com/profile/amfakh)
