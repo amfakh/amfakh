@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😄 I'm a fresh graduate with interest in data.
+😄 A bachelor degree with interest in data.
 
-📖 I'm currently learning Machine Learning, Spark, and other things related to Data Analyst and Data Science.
+📖 Ccurrently learning Machine Learning, Spark, and other things related to Data Analyst and Data Science.
 
-⚡ For now, this github only shows my previous big project on my college including my Thesis work.
-
-📊 I started to play visualization as well, you can see it in my [Tableau profile](https://public.tableau.com/profile/amfakh)
+📊 Do some viz as well, see it in my [Tableau profile](https://public.tableau.com/profile/amfakh)
