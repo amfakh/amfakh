@@ -1,6 +1,9 @@
 ### Hi there 👋
-![language_stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amfakh&hide_langs_below=1&theme=radical)
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=amfakh&show_icons=true&theme=radical)
+
+![language_stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amfakh&hide_langs_below=1&theme=radical)
+
 
 <!--
 **amfakh/amfakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
