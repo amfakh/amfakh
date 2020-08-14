@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![github stats](https://github-readme-stats.vercel.app/api?username=amfakh&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats-kappa-swart.vercel.app/api?username=amfakh&show_icons=true&theme=radical)
 
-![language_stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amfakh&hide_langs_below=1&theme=radical)
+![language_stats](https://github-readme-stats-kappa-swart.vercel.app/api/top-langs/?username=amfakh&hide_langs_below=1&theme=radical)
 
 
 <!--
